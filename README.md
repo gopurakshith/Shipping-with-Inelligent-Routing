@@ -3,3 +3,4 @@ A software to find the shortest and economical route for shipping and delivery u
 --> Starting point and end point are represented by a star and city names
 --> Intermediate cities are plotted along the route
 
+![image](https://user-images.githubusercontent.com/39185685/112057404-d55f3b80-8b1e-11eb-9217-2818afee1a8e.png)
